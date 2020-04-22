@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: tan;
+  background-image: url("/Users/geoffreygayhart/Desktop/Tennis-Game/0ggg38kxnaq01.jpg");
+  background-size: cover;
+}
+
+main {
+  padding-top: 50px;
+}
+
+h1 {
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#gameCanvas {
+  margin-top: 35px;
+}
